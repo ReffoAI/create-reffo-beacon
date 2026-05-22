@@ -6,6 +6,12 @@ This project follows [Keep a Changelog](https://keepachangelog.com/) and [Semant
 
 ## [Unreleased]
 
+### Added
+- Multi-skill install support — installer can now install multiple skills in a single run
+- `/beacon-status` command added to default skill set
+- `/pelagora-help` command added to default skill set
+- `beacn-list-item` skill added to default skills
+
 ### Fixed
 - Update `pelagora` dependency constraint from `^0.1.5` to `^0.3.0` for compatibility with latest beacon releases
 
